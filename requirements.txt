@@ -1,0 +1,4 @@
+python-dotenv
+bilibili-api-python
+curl_cffi
+requests
